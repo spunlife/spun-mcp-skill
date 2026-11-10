@@ -1,1 +1,19 @@
-{"name":"spun-mcp","displayName":"Spun MCP","description":"Guidance for AI agents using the Spun MCP server on your own WhatsApp number: sign-in, access levels, send approval, the read allowance and how to answer \"did it send\". Spun is an independent product and is not affiliated with or endorsed by WhatsApp or Meta.","version":"1.0.0","author":{"name":"Spun Life LLC","url":"https://spun.com"},"homepage":"https://spun.com/mcp/","repository":"https://github.com/spunlife/spun-mcp-skill","license":"MIT","mcpServers":{"spun":{"type":"http","url":"https://api.spun.com/api/mcp"}}}
+{
+  "name": "spun-mcp",
+  "displayName": "Spun MCP",
+  "description": "Guidance for AI agents using the Spun MCP server on your own WhatsApp number: sign-in, access levels, send approval, the read allowance and how to answer \"did it send\". Spun is an independent product and is not affiliated with or endorsed by WhatsApp or Meta.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Spun Life LLC",
+    "url": "https://spun.com"
+  },
+  "homepage": "https://spun.com/mcp/",
+  "repository": "https://github.com/spunlife/spun-mcp-skill",
+  "license": "MIT",
+  "mcpServers": {
+    "spun": {
+      "type": "http",
+      "url": "https://api.spun.com/api/mcp"
+    }
+  }
+}
