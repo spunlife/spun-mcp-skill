@@ -1,5 +1,7 @@
 # Spun MCP skill
 
+[![Spun WhatsApp MCP connector](https://glama.ai/mcp/connectors/com.spun/whatsapp/badges/score.svg)](https://glama.ai/mcp/connectors/com.spun/whatsapp)
+
 An agent skill for AI clients that use the Spun MCP server (`https://api.spun.com/api/mcp`). It tells the
 agent how to sign in, which access level allows what, how a send waits for a person to
 approve it, how to answer "did it send" from the delivery status instead of guessing, and
